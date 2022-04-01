@@ -1,0 +1,6 @@
+name: Rules
+version: '${project.version}'
+main: me.hotpocket.rules.Rules
+api-version: 1.17
+authors: [ hotpocket184 ]
+description: Add rules to your server.

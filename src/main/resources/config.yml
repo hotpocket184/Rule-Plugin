@@ -1,0 +1,16 @@
+# CONFIG.YML
+# Edit the rules from /rules.
+
+# Use '&' for color codes!
+
+rules:
+  - "&a(1) &eExample Rule"
+  - "&b(2) &eExample Rule"
+  - "&d(3) &eExample Rule"
+
+# Should text in the rules be centered?
+# Disclaimer: Chat width can be different throughout clients. Having the width at 80 is for people whose chat width is 320px.
+
+centered:
+  enabled: false
+  chat-width: 80
